@@ -1,0 +1,8 @@
+TODO
+*.swp
+.bundle
+Gemfile.lock
+coverage/**/*
+*.gem
+*.log
+.ruby-version
